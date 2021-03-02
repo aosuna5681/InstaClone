@@ -80,7 +80,7 @@ public class ComposeFragment extends Fragment {
             }
         });
 
-        //postQuery();
+        postQuery();
         btnPublishPost.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
